@@ -4,6 +4,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ### Spring boot REST Api와 React를 이용한 C2C 중고 의류 대여 플랫폼
+팀 구성 - 6명
+
 ![image](https://user-images.githubusercontent.com/115135376/206665089-93557b0e-b314-44a2-a14d-49ba70025d8e.png)
 ![image](https://user-images.githubusercontent.com/115135376/206665498-10e381d6-e48c-4a12-a1e3-e4ff0ba539cf.png)
 ![image](https://user-images.githubusercontent.com/115135376/206665608-6497b6be-df05-4ac3-920a-1e391c5cab1e.png)
